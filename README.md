@@ -1,66 +1,80 @@
 # Internship
 
-Прохождение стажировки в компании и подготовка отчета по итогам стажировки
-
+Internship in the company and the preparation of a report based on the results of the internship.
 
 ## Contents
 
 1. [Chapter I](#chapter-i) \
     1.1. [Introduction](#introduction)
 2. [Chapter II](#chapter-ii) \
-    2.1. [Part 1](#part-1-поиск-и-выбор-вакансии) \
-    2.2. [Part 2](#part-2-прохождение-стажировки) \
-    2.3. [Part 3](#part-3-оформление-отчета-по-итогам-стажировки) 
+    2.1. [Part 1](#part-1-vacancy-search-and-selection) \
+    2.2. [Part 2](#part-2-the-internship) \
+    2.3. [Part 3](#part-3-making-a-report-on-the-results-of-the-internship) 
 
 
 ## Chapter I
 
+***Postscriptum:***
+
+You suddenly woke up to something that sounded like the banging of a door:
+
+*-- Rise and shine, come on! Today's the big day, you can't sleep through the start of your internship*, a familiar voice came from somewhere near your ear.
+
+You were struggling to keep your eyes open, your head was reaching for the pillow, the blanket was wrapping itself around you, but your brain was already beginning to wake up, and the room was modeling itself. You were replaying the events of the dream in your head, which were surprisingly long and clear. Unfortunately, the longer you thought about it, the more it blurred. Some AI and a megacorporation, rebellious developers. It all didn't add up anymore, even though it seemed colorful.
+
+*-- Get up, you sleepyhead!* came from the other room. You got out of bed and took the first step toward your future...
+
 ### Introduction
 
-Наконец, ваш долгий и тернистый путь основного обучения подходит к своему логическому завершению в виде полноценной стажировки, которую вы будете проходить на протяжении трех месяцев в реальной компании, с чем мы вас от всей души поздравляем! Надеемся, что вы приобрели для себя много нового и полезного, нашли интересные знакомства за время проведенное на "основе" :) \
-На текущем этапе у вас уже есть определенный набор знаний и опыта, которые могут быть дополнительно закреплены и протестированы в боевых условиях на реальных задачах. Не страшно, если вам кажется, что вы не готовы или ваших знаний может быть недостаточно. В конце концов весь проект стажировки - это точно такой же образовательный этап, как и все проекты до него, который поможет вам открыть для себя много нового: взглянуть на индустрию изнутри, попробовать себя во внутренней кухне IT-сферы за пределами проектов Школы. А также он поможет вам определиться с тем, чего именно вы хотите от своего развития и своей карьеры: углубиться в бэкенд разработку, заниматься высоконагруженными системами реального времени, настраивать и администрировать корпоративные сети или же вообще запустить свой собственный IT-стартап.
+Finally, your long and thorny path of the core program comes to its logical conclusion in a form of a full internship, which you will undergo for three months in a real company, for which we congratulate you sincerely! We hope that you have learned many new and valuable things, found interesting acquaintances during the time spent on the "core". :) \
+You already have a certain set of knowledge and experience at this point, which can be further consolidated and tested in action on real-world tasks. It is all right if you feel that you are not ready or that your knowledge may not be enough. After all, the whole internship project is exactly the same educational stage as all the projects before it, which will help you learn many new things: to have an inside look at the industry, to try your hand at the inner kitchen of the IT sphere outside of the School's projects. 
+It will also help you decide in what direction you want to grow and what you want to pursue in your career: getting into back-end development, dealing with real-time, high-load systems, setting up and administering corporate networks, or even starting your own IT start-up.
 
-В рамках данного проекта вам необходимо будет пройти *3* основных этапа:
+In this project you will need to pass *3* main stages:
 
-1. Поиск и выбор компании и вакансии;
-2. Оформление и непосредственное прохождение стажировки;
-3. Оформление отчета по итогам пройденной стажировки.
+1. Searching and selecting a company and a vacancy;
+2. Enrolling and completing an internship;
+3. Making a report on the results of the internship.
 
-А также необходимо будет пройти *2* этапа оценки вашей стажировки: от вашего куратора (или ментора) в компании, и от пиров, которые будут внимательно слушать ваш отчет о пройденной стажировке. Поэтому отнеситесь к составлению отчета с максимальной серьезностью, чтобы любой проверяющий вас пир мог понять, что вы делали и чем занимались во время стажировки.
+Also, you will need to pass *2* stages of evaluation of your internship: one from your curator (or mentor) in the company, another from the peers who will listen carefully to your internship report. So be sure to take your report as seriously as possible so that any peer who reviews you can understand what you did and what you were working on during your internship.
 
 
 ## Chapter II
 
-### Part 1. Поиск и выбор вакансии
+### Part 1. Vacancy Search and Selection
 
-На первом этапе вам необходимо подобрать компанию и вакансию в ней для прохождения стажировки. На выбор вакансии накладываются следующие ограничения и условия:
-- Продолжительность стажировки - **3** месяца
-- Занятость должна составлять **по крайней мере 20 часов в неделю** (*полставки*)
-- Вакансия должна быть тесно связана с программированием, т.е. **не менее 30%** своего рабочего времени вы должны тратить **именно** на "*кодинг*". Да, просто "UI/UX-дизайнер", "системный администратор" или "бизнес-аналитик" - не подойдут
-- Компания должна предоставлять *куратора* или *наставника* (*ментора*), который будет сопровождать вас на протяжении всей вашей стажировки, давать вам обратную связь и, собственно, оценивать вашу работу. Если же у компании нет полноценной стажировочной программы, то обсудите с непосредственным руководителем, кого вы можете считать своим ментором - его самого, старшего коллегу из вашего отдела или вообще - продакт менеджер (что, впрочем, крайне нежелательно)
+The first step is to select a company and a vacancy in it for an internship. Your choice of vacancy is subject to the following restrictions and conditions:
+- Duration of the internship is **3** months
+- Employment must be **at least 20 hours a week** (*part-time*)
+- The vacancy should be closely related to programming, i.e. **at least 30%** of your working time should be spent **exactly** on *coding*. Yep, just "UI/UX designer", "system administrator" or "business analyst" won't do
+- The company should provide a *curator* or an *advisor* (*mentor*) who will accompany you throughout your internship, give you feedback, and actually evaluate your work. If the company does not have a full-fledged internship program, then discuss with your supervisor who you can consider to be your mentor - himself, a senior colleague from your department, or even a product manager (which, however, is highly undesirable).
 
-Обратите внимание, что есть вариант трудоустроится на вакансию младшего разработчика или выше, если выполняются все основные указанные выше критерии, применимые к стажировке.
+Note, that there is an option of getting a job as a junior developer or higher, if all of the above criteria, applicable to the internship, are fulfilled.
 
-В качестве отчета на данном этапе необходимо подготовить небольшой markdown файлик *src/search.md* с описанием выбранной вакансии, требованиям к ней и описанием компании, в которой будет проходиться стажировка. 
+As a report at this stage it is necessary to prepare a small markdown file *src/search.md* with a description of the chosen vacancy, requirements to it and description of the company where the internship will take place.
 
-### Part 2. Прохождение стажировки
+### Part 2. The Internship
 
-После выбора удовлетворяющей всем условиям вакансии вам необходимо оформиться на стажировку в выбранную компанию, заключив договор или контракт. И не забудьте обязательно загрузить данный документ в Аппликант, так как стажировка не может быть завалидирована прошедшими периодами! Обратите внимание, что даты в документе должны покрывать даты стажировки как проекта. \
-Ближайшие 3 месяца вас будут ждать увлекательные реальные задачи и активная работа, так что - удачи! И да прибудет с вами Сила Вертера :)
+Once you have selected a position that meets all the conditions, you need to sign an agreement or contract for an internship with the company of your choice. And don't forget to upload this document to Applicant, as internships cannot be validated with past periods! Note that the dates in the document must cover the dates of the internship as a project. \
+Over the next 3 months, you will have exciting real-world tasks and hard work waiting for you, so - good luck! And may the Power of Verter be with you :)
 
-### Part 3. Оформление отчета по итогам стажировки
+### Part 3. Making a report on the results of the internship.
 
-По истечению 3 месяцев стажировки вам необходимо подготовить отчет в формате презентации с рассказом о компании, своей должности и обязанностях, которые вы выполняли, в том числе и про задачи, которыми вы занимались во время стажировки. В свой доклад необходимо обязательно включить следующие пункты:
-1. Краткий рассказ что за компания и чем она занимается, какого рода проекты выполняет, какая у нее корпоративная культура
-2. Краткий рассказ на какой должности вы стажировались, в каком функциональном подразделении/отделе. Что входило в ваши ежедневные обязанности
-3. Краткий рассказ о структуре проектной команды или функционального подразделения, в котором вы проходили стажировку, а так же принятую методологию организации проектной деятельности, используемые процессы и инструменты
-4. Рассказ о выполненных вами задачах (с примерами самой нелюбимой и самой любимой задачи), чем занимались на стажировке, над каким(и) проектом(ами) работали. В качестве небольшого анализа вашей работы также предоставить статистику поставленных вам задач: их общее количество, количество успешно выполненных, количество возвратов задач на переделку и среднее время выполнения задач. Указать какие навыки/качества вы приобрели, какие навыки/качества использовали (не только технические!) в процессе стажировки с примерами ситуаций
-5. Итоги вашей стажировки, чего достигли, какой вклад внесли в компанию и проект(ы), над которым(и) непосредственно работали
+After 3 months, you must prepare a report in the presentation format with a story about the company, your position and the duties, including the tasks you did during the internship. Be sure to include the following information in your report:
 
-При составлении доклада обязательно проконсультируйтесь со своим куратором или ментором на предмет того, что можно публично рассказывать а что нет - возможно некоторые детали организационной структуры или проектной деятельности относятся к коммерческой тайне. В таком случае постарайтесь обобщить свой рассказ без углубления в детали и конкретику.
+1. A short story about the company, what kind of projects they do, what kind of corporate culture they have?
 
-Также обратите внимание, что ваш доклад с презентацией будут слушать другие пиры, которые могут не знать ничего о компании или о выполненной вами работе. Поэтому ваша основная задача построить презентацию и рассказ таким образом, чтобы абсолютно любой слушатель мог понять чем вы занимались и что делали. От того, как вы сможете донести до пиров чем вы занимались, будет зависеть ваша итоговая оценка.
+2. A short story about your position in the company. In which functional unit/department you worked? What were your daily tasks?
 
-Общая продолжительность вашего доклада должна варьироваться **от 5 до 7 минут**. Поэтому старайтесь рассказывать подробно, но только по существу. И обязательно подготовьте заранее текст, чтобы не тратить время на импровизации.
+3. A short story about the structure of the project team or functional unit in which you did an internship, as well as the accepted methodology for organizing project work, the processes and tools used.
 
-Презентацию необходимо загрузить в репозиторий в папку *src* с названием файла *internship_pres*.
+4. A description of the tasks you completed (with examples of your least favorite task and most favorite one), what you did during your internship, and which project(s) you worked on. As a brief analysis of your work, also provide statistics on the tasks assigned to you: their total number, the number of tasks successfully completed, the number of tasks returned in progress, and the average time spent on the task. Specify what skills/qualities you have acquired and what skills/qualities you have used (not only technical ones!) during the internship with examples of situations
+5. The results of your internship. What you have achieved? What you have contributed to the company and the project(s) you directly worked on?
+
+When making the report, be sure to consult with your curator or mentor about what can and cannot be shared publicly - perhaps some of the details of the organizational structure or project activities are considered confidential. In that case, try to summarize your story without going into details or specifics.
+
+Also note that your speech and presentation will be listened to by other peers who may not know anything about the company or the work you have done. Therefore, your main task is to structure your presentation and story in such a way that absolutely any listener can understand what you have been doing there. Your final grade will depend on your ability to explain to the peers what your job was.
+
+The total length of your speech must range **from 5 to 7 minutes**. So try to talk in detail, but only to the point. And be sure to prepare the text in advance, so you don't waste time improvising.
+
+The presentation must be uploaded to the repository in the *src* folder with the file name *internship_pres*.
