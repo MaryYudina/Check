@@ -14,6 +14,8 @@ Internship in the company and the preparation of a report based on the results o
 
 ## Chapter I
 
+![internship_final](misc/images/internship_final.png)
+
 ***Postscriptum:***
 
 You suddenly woke up to something that sounded like the banging of a door:

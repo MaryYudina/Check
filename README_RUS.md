@@ -15,6 +15,8 @@
 
 ## Chapter I
 
+![internship_final](misc/images/internship_final.png)
+
 ***Postscriptum:***
 
 Вы резко проснулись от чего-то похожего на грохот двери:
