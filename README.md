@@ -62,7 +62,7 @@ Over the next 3 months, you will have exciting real-world tasks and hard work wa
 
 ### Part 3. Making a report on the results of the internship.
 
-After 3 months, you must prepare a report in the presentation format with a story about the company, your position and the duties, including the tasks you did during the internship. Be sure to include the following information in your report:
+Within 3 months, you must prepare a report in the presentation format with a story about the company, your position and the duties, including the tasks you did during the internship. Be sure to include the following information in your report:
 
 1. A short story about the company, what kind of projects they do, what kind of corporate culture they have?
 
@@ -80,3 +80,5 @@ Also note that your speech and presentation will be listened to by other peers w
 The total length of your speech must range **from 5 to 7 minutes**. So try to talk in detail, but only to the point. And be sure to prepare the text in advance, so you don't waste time improvising.
 
 The presentation must be uploaded to the repository in the *src* folder with the file name *internship_pres*.
+
+The report must be prepared during the internship and uploaded to the platform before the mentor gives you the second grade.
