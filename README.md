@@ -75,10 +75,10 @@ Within 3 months, you must prepare a report in the presentation format with a sto
 
 When making the report, be sure to consult with your curator or mentor about what can and cannot be shared publicly - perhaps some of the details of the organizational structure or project activities are considered confidential. In that case, try to summarize your story without going into details or specifics.
 
-Also note that your speech and presentation will be listened to by other peers who may not know anything about the company or the work you have done. Therefore, your main task is to structure your presentation and story in such a way that absolutely any listener can understand what you have been doing there. Your final grade will depend on your ability to explain to the peers what your job was.
+Also note that your speech and presentation will be listened to by other peers who may not know anything about the company or your work. Therefore, your main task is to structure your presentation and story in such a way that absolutely any listener can understand what you did there. Your final grade will depend on your ability to explain to the peers what your job was.
 
-The total length of your speech must range **from 5 to 7 minutes**. So try to talk in detail, but only to the point. And be sure to prepare the text in advance, so you don't waste time improvising.
+The total length of your speech must be **between 5 and 7 minutes**. So try to be detailed, but to the point. And be sure to prepare your text ahead of time so you don't waste time improvising.
 
-The presentation must be uploaded to the repository in the *src* folder with the file name *internship_pres*.
+The presentation must be uploaded to the repository in the *src* folder with the filename *internship_pres*.
 
 The report must be prepared during the internship and uploaded to the platform before the mentor gives you the second grade.
