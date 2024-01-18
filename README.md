@@ -7,9 +7,9 @@ Internship in the company and the preparation of a report based on the results o
 1. [Chapter I](#chapter-i) \
     1.1. [Introduction](#introduction)
 2. [Chapter II](#chapter-ii) \
-    2.1. [Part 1](#part-1-vacancy-search-and-selection) \
-    2.2. [Part 2](#part-2-the-internship) \
-    2.3. [Part 3](#part-3-making-a-report-on-the-results-of-the-internship) 
+    2.1. [Part 0](#part-0-vacancy-search-and-selection) \
+    2.2. [Part 1](#part-1-the-internship) \
+    2.3. [Part 2](#part-2-making-a-report-on-the-results-of-the-internship) 
 
 
 ## Chapter I
@@ -43,9 +43,9 @@ Also, you will need to pass *2* stages of evaluation of your internship: one fro
 
 ## Chapter II
 
-### Part 1. Vacancy Search and Selection
+### Part 0. Vacancy Search and Selection
 
-The first step is to select a company and a vacancy in it for an internship. Your choice of vacancy is subject to the following restrictions and conditions:
+Before starting the project, you need to choose a company and a vacancy in it for an internship. Your choice of vacancy is subject to the following restrictions and conditions:
 - Duration of the internship is **3** months
 - Employment must be **at least 20 hours a week** (*part-time*)
 - The vacancy should be closely related to programming, i.e. **at least 30%** of your working time should be spent **exactly** on *coding*. Yep, just "UI/UX designer", "system administrator" or "business analyst" won't do
@@ -55,12 +55,12 @@ Note, that there is an option of getting a job as a junior developer or higher, 
 
 As a report at this stage it is necessary to prepare a small markdown file *src/search.md* with a description of the chosen vacancy, requirements to it and description of the company where the internship will take place.
 
-### Part 2. The Internship
+### Part 1. The Internship
 
 Once you have selected a position that meets all the conditions, you need to sign an agreement or contract for an internship with the company of your choice. And don't forget to upload this document to Applicant, as internships cannot be validated with past periods! Note that the dates in the document must cover the dates of the internship as a project. \
 Over the next 3 months, you will have exciting real-world tasks and hard work waiting for you, so - good luck! And may the Power of Verter be with you :)
 
-### Part 3. Making a report on the results of the internship.
+### Part 2. Making a report on the results of the internship.
 
 Within 3 months, you must prepare a report in the presentation format with a story about the company, your position and the duties, including the tasks you did during the internship. Be sure to include the following information in your report:
 
