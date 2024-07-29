@@ -48,8 +48,8 @@ Also, you will need to pass *2* stages of evaluation of your internship: one fro
 Before starting the project, you need to choose a company and a vacancy in it for an internship. Your choice of vacancy is subject to the following restrictions and conditions:
 - Duration of the internship is **3** months
 - Employment must be **at least 20 hours a week** (*part-time*)
-- The vacancy should be closely related to programming, i.e. **at least 30%** of your working time should be spent **exactly** on *coding*. Yep, just "UI/UX designer", "system administrator" or "business analyst" won't do
 - The company should provide a *curator* or an *advisor* (*mentor*) who will accompany you throughout your internship, give you feedback, and actually evaluate your work. If the company does not have a full-fledged internship program, then discuss with your supervisor who you can consider to be your mentor - himself, a senior colleague from your department, or even a product manager (which, however, is highly undesirable).
+- The vacancy should correspond to one of the specialties from this [list](https://21-school.ru/specialties).
 
 Note, that there is an option of getting a job as a junior developer or higher, if all of the above criteria, applicable to the internship, are fulfilled.
 
@@ -79,6 +79,6 @@ Also note that your speech and presentation will be listened to by other peers w
 
 The total length of your speech must be **between 5 and 7 minutes**. So try to be detailed, but to the point. And be sure to prepare your text ahead of time so you don't waste time improvising.
 
-The presentation must be uploaded to the repository in the *src* folder (*develop* branch) with the filename *internship_pres*.
+The presentation should be uploaded to the repository in the *src* folder (*develop* branch) with the filename *internship_pres*.
 
-The report must be prepared during the internship and uploaded to the platform before the mentor gives you the second grade.
+The report should be prepared during the internship and uploaded to the platform before the mentor gives you the second grade.
