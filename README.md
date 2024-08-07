@@ -57,7 +57,7 @@ As a report at this stage it is necessary to prepare a small markdown file *src/
 
 ### Part 1. The Internship
 
-Once you have selected a position that meets all the conditions, you need to sign an agreement or contract for an internship with the company of your choice. And don't forget to upload this document to Applicant, as internships cannot be validated with past periods! Note that the dates in the document must cover the dates of the internship as a project. \
+Once you have selected a position that meets all the conditions, you need to sign an agreement or contract for an internship with the company of your choice. And don't forget to upload employment letter to Applicant, as internships cannot be validated with past periods! Note that the dates in the document must cover the dates of the internship as a project. \
 Over the next 3 months, you will have exciting real-world tasks and hard work waiting for you, so - good luck! And may the Power of Verter be with you :)
 
 ### Part 2. Making a report on the results of the internship.
