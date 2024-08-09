@@ -28,54 +28,53 @@ You were struggling to keep your eyes open, your head was reaching for the pillo
 
 ### Introduction
 
-Finally, your long and thorny path of the core program comes to its logical conclusion in a form of a full internship, which you will undergo for three months in a real company, for which we congratulate you sincerely! We hope that you have learned many new and valuable things, found interesting acquaintances during the time spent on the "core". :) \
-You already have a certain set of knowledge and experience at this point, which can be further consolidated and tested in action on real-world tasks. It is all right if you feel that you are not ready or that your knowledge may not be enough. After all, the whole internship project is exactly the same educational stage as all the projects before it, which will help you learn many new things: to have an inside look at the industry, to try your hand at the inner kitchen of the IT sphere outside of the School's projects. 
-It will also help you decide in what direction you want to grow and what you want to pursue in your career: getting into back-end development, dealing with real-time, high-load systems, setting up and administering corporate networks, or even starting your own IT start-up.
+Finally, your long and thorny path of the Core Program comes to its logical conclusion in the form of a full internship, which you will complete for three months in a real company, for which we congratulate you most sincerely! We hope that you have learned many new and valuable things, made interesting acquaintances during your time in the "Core" :) \
+At this point, you already have a certain amount of knowledge and experience, which can be further consolidated and tested in action on real tasks. It is okay if you feel that you are not ready or that your knowledge is not enough. After all, the whole internship project is exactly the same educational stage as all the projects before it, which will help you learn many new things: to get an inside look at the industry, to try your hand at the inner kitchen of the IT sphere outside of school projects. 
+It will also help you decide in which direction you want to grow and what you want to do with your career: get into back-end development, deal with real-time, high-load systems, set up and manage corporate networks, or even start your own IT startup.
 
-In this project you will need to pass *3* main stages:
+There are *3* major stages to this project:
 
-1. Searching and selecting a company and a vacancy;
-2. Enrolling and completing an internship;
-3. Making a report on the results of the internship.
+1. Find and choose a company and a job;
+2. Apply for and complete an internship;
+3. Write a report on the results of your internship.
 
-Also, you will need to pass *2* stages of evaluation of your internship: one from your curator (or mentor) in the company, another from the peers who will listen carefully to your internship report. So be sure to take your report as seriously as possible so that any peer who reviews you can understand what you did and what you were working on during your internship.
-
+You will also have to pass *2* stages of evaluation of your internship: one by your curator (or mentor) in the company, another by your peers who will listen carefully to your internship report. So be sure to take your report as seriously as possible so that each peer reviewing you can understand what you did and what you worked on during your internship.
 
 ## Chapter II
 
 ### Part 0. Vacancy Search and Selection
 
-Before starting the project, you need to choose a company and a vacancy in it for an internship. Your choice of vacancy is subject to the following restrictions and conditions:
-- Duration of the internship is **3** months
-- Employment must be **at least 20 hours a week** (*part-time*)
-- The company should provide a *curator* or an *advisor* (*mentor*) who will accompany you throughout your internship, give you feedback, and actually evaluate your work. If the company does not have a full-fledged internship program, then discuss with your supervisor who you can consider to be your mentor - himself, a senior colleague from your department, or even a product manager (which, however, is highly undesirable).
-- The vacancy should correspond to one of the specialties from this [list](https://21-school.ru/specialties).
+Before starting the project, you must select a company and an internship position. Your choice of position is subject to the following restrictions and conditions:
+- Duration of the internship is **3** months.
+- Employment must be **at least 20 hours per week** (*part-time*).
+- The company should provide a *curator* or *advisor* (*mentor*) who will accompany you throughout the internship, give you feedback, and actually evaluate your work. If the company does not have a full-fledged internship program, discuss with your supervisor who you can consider as your mentor — yourself, a senior colleague from your department, or even a product manager (although this is highly undesirable).
+- The position should correspond to one of the specialties from this [list](https://21-school.ru/specialties).
 
-Note, that there is an option of getting a job as a junior developer or higher, if all of the above criteria, applicable to the internship, are fulfilled.
+Note that there is a possibility of getting a job as a junior developer or higher if all the above criteria applicable to the internship are met.
 
-As a report at this stage it is necessary to prepare a small markdown file *src/search.md* in the *develop* branch with a description of the chosen vacancy, requirements to it and description of the company where the internship will take place.
+As a report at this stage, it is necessary to prepare a small markdown file *src/search.md* in the *develop* branch with a description of the chosen position, requirements for it, and description of the company where the internship will take place.
 
 ### Part 1. The Internship
 
-Once you have selected a position that meets all the conditions, you need to sign an agreement or contract for an internship with the company of your choice. And don't forget to upload employment letter to Applicant, as internships cannot be validated with past periods! Note that the dates in the document must cover the dates of the internship as a project. \
-Over the next 3 months, you will have exciting real-world tasks and hard work waiting for you, so - good luck! And may the Power of Verter be with you :)
+Once you have selected a position that meets all the requirements, you will need to sign an internship agreement or contract with the company of your choice. And don't forget to upload a letter of employment to Applicant, as internships with past periods cannot be validated! Note that the dates in the document must cover the dates of the internship as a project. \
+The next 3 months will be full of exciting real-world tasks and hard work, so — good luck! And may the power of Verter be with you :)
 
-### Part 2. Making a report on the results of the internship.
+### Part 2. Write a report on the results of your internship
 
-Within 3 months, you must prepare a report in the presentation format with a story about the company, your position and the duties, including the tasks you did during the internship. Be sure to include the following information in your report:
+Within 3 months, you must prepare a report in presentation format with a story about the company, your position and duties, including the tasks you performed during the internship. Be sure to include the following information in your report:
 
-1. A short story about the company, what kind of projects they do, what kind of corporate culture they have?
+1. A short story about the company, what kind of projects they do, what kind of culture they have?
 
-2. A short story about your position in the company. In which functional unit/department you worked? What were your daily tasks?
+2. A brief history of your position in the company. In which functional unit/department did you work? What were your daily tasks?
 
-3. A short story about the structure of the project team or functional unit in which you did an internship, as well as the accepted methodology for organizing project work, the processes and tools used.
+3. A short story about the structure of the project team or functional unit in which you interned, as well as the accepted methodology for organizing project work, the processes and tools used.
 
-4. A description of the tasks you completed (with examples of your least favorite task and most favorite one), what you did during your internship, and which project(s) you worked on. As a brief analysis of your work, also provide statistics on the tasks assigned to you: their total number, the number of tasks successfully completed, the number of tasks returned in progress, and the average time spent on the task. Specify what skills/qualities you have acquired and what skills/qualities you have used (not only technical ones!) during the internship with examples of situations
-5. The results of your internship. What you have achieved? What you have contributed to the company and the project(s) you directly worked on?
+4. A description of the tasks you performed (with examples of your favorite and least favorite task), what you did during your internship, and the project(s) you worked on. As a brief analysis of your work, also provide statistics on the tasks assigned to you: their total number, the number of tasks successfully completed, the number of tasks returned in progress, and the average time spent on the task. Indicate what skills/qualities you have acquired and what skills/qualities you have used (not only technical ones!) during the internship, with examples of situations.
+5. The results of the internship. What have you achieved? What did you contribute to the company and the project(s) you worked on directly?
 
-When making the report, be sure to consult with your curator or mentor about what can and cannot be shared publicly - perhaps some of the details of the organizational structure or project activities are considered confidential. In that case, try to summarize your story without going into details or specifics.
+When writing the report, be sure to consult with your curator or mentor about what can and cannot be shared publicly — some details of the organization's structure or project activities may be considered confidential. If so, try to summarize your story without going into detail or specifics.
 
-Also note that your speech and presentation will be listened to by other peers who may not know anything about the company or your work. Therefore, your main task is to structure your presentation and story in such a way that absolutely any listener can understand what you did there. Your final grade will depend on your ability to explain to the peers what your job was.
+Also remember that your speech and presentation will be heard by other colleagues who may not know anything about the company or your work. Therefore, your main task is to structure your presentation and story in such a way that absolutely any listener can understand what you did there. Your final grade will depend on your ability to explain to your peers what you did.
 
 The total length of your speech must be **between 5 and 7 minutes**. So try to be detailed, but to the point. And be sure to prepare your text ahead of time so you don't waste time improvising.
 
