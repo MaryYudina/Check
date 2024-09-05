@@ -50,7 +50,7 @@ Before starting the project, you must choose a company and an internship positio
 - The duration of the internship is **3** months.
 - Employment must be **at least 20 hours per week** (*part-time*).
 - The company should provide a *curator* or *advisor* (*mentor*) who will accompany you throughout the internship, give you feedback, and actually evaluate your work. If the company does not have a full-fledged internship program, discuss with your supervisor who you can consider as your mentor - yourself, a senior colleague from your department, or even a product manager (although this is highly undesirable).
-- The position should correspond to one of the specialties from this [list](https://21-school.ru/specialties).
+- The position should correspond to one of the specialties from this [list](https://applicant.21-school.ru/specialties).
 
 Note that there is a possibility of getting a job as a junior developer or higher if all the above internship criteria are met.
 
